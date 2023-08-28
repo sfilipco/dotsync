@@ -13,11 +13,12 @@ brew install \
   tpm \
   ripgrep \
   fd \
-  rust-analyzer
+  rust-analyzer \
+  gh
 ```
 
 # FZF
-Install
+Run `fzf` to generate `.fzf.zsh`.
 
 # Tmux
 Install plugins with `C-A I`.
