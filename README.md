@@ -4,7 +4,7 @@ Configuration files managed using [chezmoi](https://www.chezmoi.io/).
 # Requirements
 Brew. Then:
 ```
-touch ~/.zshrc
+touch ~/.zshrc.local
 brew install \
   alacritty \
   neovim \
@@ -15,6 +15,9 @@ brew install \
   fd \
   rust-analyzer
 ```
+
+# FZF
+Install
 
 # Tmux
 Install plugins with `C-A I`.
