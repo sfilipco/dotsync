@@ -23,3 +23,6 @@ Install
 Install plugins with `C-A I`.
 Start session with `tmux $TMUX_OPTIONS new-session -As auto`.
 
+# Neovim
+See package manager to install: 
+  https://github.com/wbthomason/packer.nvim#quickstart
