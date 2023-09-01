@@ -14,7 +14,9 @@ brew install \
   ripgrep \
   fd \
   rust-analyzer \
-  gh
+  gh \
+  MisterTea/et/et \
+  nushell
 ```
 
 # FZF
