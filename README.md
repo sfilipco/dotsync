@@ -13,10 +13,12 @@ brew install \
   tpm \
   ripgrep \
   fd \
+  rust \
   rust-analyzer \
   gh \
   MisterTea/et/et \
-  nushell
+  nushell \
+  chezmoi \
 ```
 
 # FZF
