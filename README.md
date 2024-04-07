@@ -18,7 +18,7 @@ brew install \
   gh \
   MisterTea/et/et \
   nushell \
-  chezmoi \
+  chezmoi
 ```
 
 # FZF
