@@ -18,7 +18,9 @@ brew install \
   gh \
   MisterTea/et/et \
   nushell \
-  chezmoi
+  chezmoi \
+  font-fira-code-nerd-font \
+  zellij
 ```
 
 # FZF
