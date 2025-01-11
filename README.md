@@ -16,11 +16,9 @@ brew install \
   rust \
   rust-analyzer \
   gh \
-  MisterTea/et/et \
   nushell \
   chezmoi \
-  font-fira-code-nerd-font \
-  zellij
+  font-fira-code-nerd-font
 ```
 
 # FZF
